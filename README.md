@@ -1,2 +1,2 @@
 
-# simple Tic-Tac-Toe game in javascript.
+# A simple Tic-Tac-Toe game
